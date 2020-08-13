@@ -1,11 +1,11 @@
 # Site settings
-author: Michael I
-title: 
+author: Michael Iodice
+title: Flatiron Blog
 header-img: img/home-bg.png
 email: miodice3@gmail.com
-copyright_name: Michael I
+copyright_name: Michael Iodice
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blogging about my journey through Flatiron's Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  miodice3
